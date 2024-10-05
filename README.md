@@ -14,37 +14,27 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-devs)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/m0h4mm3d_hu553n)
 
-
-## Skills </>
-
-| Category             | Skills                                                                                                                                 |
-|----------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| **Frameworks**       | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react-hook-form&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=react-query&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) |
-| **Languages**        | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
-| **Styling & Frameworks** | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
-| **Database**         | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/-Postgres-336791?logo=postgresql&logoColor=white) |
-| **Services & Tools** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Competitive Coding** | ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black) ![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white) ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white) |
-| **IDE & Environment** | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-000000?logo=codesandbox&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) ![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?logo=google-chrome&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?logo=windows-terminal&logoColor=white) |
-| **Hosting**          | ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) |
-| **APIs**             | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
-| **Design Tools**     | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) |
-| **Learning**         | ![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-006400?logo=freecodecamp&logoColor=white) ![Udemy](https://img.shields.io/badge/-Udemy-EC5252?logo=udemy&logoColor=white) |
+# 💫 About Me:
+ 
 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=awash-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=awash-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=awash-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=awash-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=awash-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Statistics
-
-| My GitHub Statistics | Most Used Languages | Streaks |
-|----------------------|----------------------|---------|
-| ![GitHub Stats](https://img.shields.io/badge/Total%20Stars%20Earned-14-brightgreen) ![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2024)-430-blue) ![Total PRs](https://img.shields.io/badge/Total%20PRs-0-red) ![Total Issues](https://img.shields.io/badge/Total%20Issues-1-yellow) ![Contributed to (last year)](https://img.shields.io/badge/Contributed%20to%20(last%20year)-1-lightgrey) | ![JavaScript](https://img.shields.io/badge/JavaScript-57.63%25-yellow) ![CSS](https://img.shields.io/badge/CSS-24.46%25-blue) ![Python](https://img.shields.io/badge/Python-8.92%25-blue) ![HTML](https://img.shields.io/badge/HTML-7.77%25-red) ![SCSS](https://img.shields.io/badge/SCSS-2.04%25-purple) | ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-462-orange) ![Current Streak](https://img.shields.io/badge/Current%20Streak-3-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-21-orange) |
-
-### 📜 Random Dev Quote
-
-> "Language systems stand on a tripod. There's the language, there's the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things."  
-> — *L. Peter Deutsch*
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
