@@ -30,3 +30,21 @@
 | **APIs**             | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
 | **Design Tools**     | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) |
 | **Learning**         | ![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-006400?logo=freecodecamp&logoColor=white) ![Udemy](https://img.shields.io/badge/-Udemy-EC5252?logo=udemy&logoColor=white) |
+
+
+
+
+
+
+
+## 📊 Statistics
+
+| My GitHub Statistics | Most Used Languages | Streaks |
+|----------------------|----------------------|---------|
+| ![GitHub Stats](https://img.shields.io/badge/Total%20Stars%20Earned-14-brightgreen) ![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2024)-430-blue) ![Total PRs](https://img.shields.io/badge/Total%20PRs-0-red) ![Total Issues](https://img.shields.io/badge/Total%20Issues-1-yellow) ![Contributed to (last year)](https://img.shields.io/badge/Contributed%20to%20(last%20year)-1-lightgrey) | ![JavaScript](https://img.shields.io/badge/JavaScript-57.63%25-yellow) ![CSS](https://img.shields.io/badge/CSS-24.46%25-blue) ![Python](https://img.shields.io/badge/Python-8.92%25-blue) ![HTML](https://img.shields.io/badge/HTML-7.77%25-red) ![SCSS](https://img.shields.io/badge/SCSS-2.04%25-purple) | ![Total Contributions](https://img.shields.io/badge/Total%20Contributions-462-orange) ![Current Streak](https://img.shields.io/badge/Current%20Streak-3-orange) ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-21-orange) |
+
+### 📜 Random Dev Quote
+
+> "Language systems stand on a tripod. There's the language, there's the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things."  
+> — *L. Peter Deutsch*
+
