@@ -8,3 +8,12 @@
 - 👨‍💻 I'm looking to collaborate on **website development** & **UI/UX design**
 - 🌐 Website: [https://Awash-dev.com](https://awash-dev.github.io/portfolios/)
 - 💬 If you have an idea, bring it up here and **let's talk**
+
+## 🌐 How to reach me?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-devs)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/m0h4mm3d_hu553n)
+
+
+## Skills </>
+
