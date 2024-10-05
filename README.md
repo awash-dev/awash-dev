@@ -1,4 +1,4 @@
-# Hi there 👋, I am Fitsum Helina.
+# Hi there 👋, I am Mohammed Hussen.
 
 ![Profile views](https://img.shields.io/badge/Profile%20views-4%2C573-blue)
 
