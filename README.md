@@ -7,12 +7,12 @@
 - 🌱 I'm currently working on **Full Stack development**
 - 🤝 Passionate to work **together**
 - 👨‍💻 I'm looking to collaborate on **website development** & **UI/UX design**
-- 🌐 Website: [https://Awash-dev.com](https://awash-dev.github.io/portfolios/)
+- 🌐 Website: [https://Awash-dev.com]([https://awash-dev.github.io/portfolios/](https://awash-port.vercel.app/))
 - 💬 If you have an idea, bring it up here and **let's talk**
 
 ## 🌐 How to reach me?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-devs)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammed-hussen-mohammed-70981b299)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/m0h4mm3d_hu553n)
 
  
