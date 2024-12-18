@@ -4,15 +4,19 @@
 [![Visit Count](https://visitcount.itsvg.in/api?id=awash-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## About Me
-- 🌱 I'm currently working on **Full Stack Development**
-- 🤝 Passionate to work **together**
-- 👨‍💻 I'm looking to collaborate on **Website Development** & **UI/UX Design**
-- 🌐 Website: [Awash-dev.com](https://awash-dev.github.io/portfolios/)
-- 💬 If you have an idea, bring it up here and **let's talk**
+🌟 **Full Stack Developer** with a passion for crafting seamless user experiences and robust back-end systems.  
+💻 Proficient in both frontend and backend technologies, I strive to create applications that are not only functional but also visually appealing.  
+🎨 I enjoy collaborating on projects that challenge my skills and push the boundaries of creativity.  
+🚀 Always eager to learn new technologies and improve my craft.  
+🌐 Website: [Awash-dev.com](https://awash-dev.github.io/portfolios/)
+
+---
 
 ## 🌐 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hussen-mohammed-70981b299)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/m0h4mm3d_hu553n)
+
+---
 
 ## My Skills
 
@@ -31,8 +35,8 @@
 ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-%000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Go](https://img.shields.io/badge/Go-%00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -50,23 +54,21 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-# 📊 GitHub Stats
-### Overall Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awash-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+---
+
+## Version Control
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23F05032.svg?style=for-the-badge&logo=github&logoColor=white)  
+
+---
 
 ### Current Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=awash-dev&theme=dark&hide_border=false)<br/>
 
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=awash-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ## 📅 Last Code Contributions
 ![Last Year Contributions](https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=dark)
 
-## 🎮 Snake Game
-![Snake Game](https://github.com/awash-dev/awash-dev/blob/output/github-contribution-grid-snake.svg)
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+---
