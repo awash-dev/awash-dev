@@ -71,4 +71,4 @@
 ![Last Year Contributions](https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=dark)
 
 ### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&theme=dark&hide_border=false&include_all_commits=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&theme=dark&hide_border=false&layout=compact&exclude_repo=portfolio-legacy,test-repo,starter-template)
