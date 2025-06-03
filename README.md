@@ -69,7 +69,7 @@
 
 ## 🐍 GitHub Contributions Snake Game
 
-![GitHub Snake](https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-contribution-grid-snake.gif)
+![GitHub Snake](https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-contribution-grid-snake.gif))
 
 ---
 
