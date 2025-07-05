@@ -1,5 +1,5 @@
-
 ![Profile Views](https://komarev.com/ghpvc/?username=awash-dev&label=Profile%20views&color=0e75b6&style=flat)
+
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
 <h3 align="center">🚀 Backend Engineer & 🧠 Data Scientist</h3>
 
@@ -15,7 +15,7 @@
 - 🌐 Backend stack: **Python**, **FastAPI**, **PostgreSQL**, **Redis**, **Docker**  
 - 📊 Data Science stack: **Pandas**, **Scikit-learn**, **TensorFlow**, **XGBoost**  
 - ☁️ Working on cloud-native & serverless apps (AWS, Heroku, Render)  
-- ✍️ Blogging soon at [yourwebsite.dev](https://yourwebsite.dev)
+- ✍️ Blogging soon at [awash-port.vercel.app](https://awash-port.vercel.app/)
 
 ---
 
@@ -54,8 +54,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=awash-dev&theme=radical&hide_border=true" width="47%" />
 </p>
 
 ---
@@ -70,9 +70,9 @@
 
 ## 📫 Contact Me
 
-- 🌍 Portfolio: [yourwebsite.dev](https://awash-port.vercel.app/)
+- 🌍 Portfolio: [awash-port.vercel.app](https://awash-port.vercel.app/)
 - 📧 Email: mmmame4224@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/mohammed-hussen-mohammed-19794b372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 LinkedIn: [linkedin.com/in/mohammed-hussen-mohammed-19794b372](https://www.linkedin.com/in/mohammed-hussen-mohammed-19794b372)
 
 ---
 
