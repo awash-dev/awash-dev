@@ -63,16 +63,16 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 
-- 🌍 Portfolio: [yourwebsite.dev](https://yourwebsite.dev)
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 🌍 Portfolio: [yourwebsite.dev](https://awash-port.vercel.app/)
+- 📧 Email: mmmame4224@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/mohammed-hussen-mohammed-19794b372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
