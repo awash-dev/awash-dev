@@ -1,103 +1,93 @@
-![Profile Views](https://komarev.com/ghpvc/?username=awash-dev&label=Profile%20views&color=0066ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=awash-dev&label=PROFILE+VIEWS&color=0066ff&style=flat-square)
 
 <div align="center">
 
-<!-- Modern header with better gradient -->
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #0066ff, #00c8ff); -webkit-background-clip: text; color: transparent;">
-    Mohammed Hussen
+<!-- Professional Header with Subtle Gradient -->
+<h1 style="font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 600; letter-spacing: -0.5px;">
+  <span style="background: linear-gradient(90deg, #0066ff, #00aaff); -webkit-background-clip: text; color: transparent;">
+    MOHAMMED HUSSEN
   </span>
 </h1>
 
-<h3 align="center">
-  <span style="color: #0066ff">Backend Engineer</span> • 
-  <span style="color: #0066ff">Data Scientist</span> • 
-  <span style="color: #0066ff">Full Stack Developer</span>
+<h3 style="font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 400; color: #4a5568; margin-top: -0.5rem;">
+  FULL-STACK ENGINEER | CLOUD ARCHITECT | DATA SPECIALIST
 </h3>
 
-<!-- Optimized typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=0066FF&center=true&width=600&lines=Building+scalable+backend+systems;Designing+ML-powered+APIs;Developing+modern+web+apps;Creating+mobile+experiences;Open-source+enthusiast)](https://git.io/typing-svg)
+<!-- Optimized Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=0066FF&center=true&width=620&lines=Architecting+scalable+backend+systems;Engineering+AI-powered+solutions;Developing+performant+web+applications;Building+cross-platform+mobile+experiences;Open-source+contributor+%26+mentor)](https://git.io/typing-svg)
 
-<!-- Clean divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### **Backend Development**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-
-### **Frontend Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Lynx.js](https://img.shields.io/badge/Lynx.js-FF6600?logo=javascript&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-
-### **Data & AI**
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
-
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?logo=docker&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+<!-- Minimal Divider -->
+<hr style="border: 0.5px solid #e2e8f0; width: 85%; margin: 1.5rem auto;">
 
 </div>
 
----
+## 🔧 TECHNICAL EXPERTISE
 
-## 🚀 Featured Projects
+<div align="center" style="margin: 1.5rem 0;">
 
-<div align="center">
-
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **[ML Microservice](https://github.com/awash-dev/ml-api)** | FastAPI • XGBoost • Docker | Production ML API with monitoring |
-| **[E-Commerce App](https://github.com/awash-dev/ecom-app)** | Next.js • Lynx.js • Tailwind | Modern web store with responsive UI |
-| **[Mobile Task Manager](https://github.com/awash-dev/task-mobile)** | React Native • Node.js | Cross-platform productivity app |
-| **[Data Dashboard](https://github.com/awash-dev/data-viz)** | Python • Pandas • Next.js | Interactive analytics platform |
+| **Domain**         | **Technologies**                                                                 |
+|--------------------|---------------------------------------------------------------------------------|
+| Backend Development | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&style=flat-square) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&style=flat-square) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&style=flat-square) |
+| Frontend Development | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=flat-square) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat-square) |
+| Data & AI          | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&style=flat-square) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat-square) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&style=flat-square) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&style=flat-square) |
+| DevOps & Cloud     | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&style=flat-square) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-0DB7ED?logo=docker&style=flat-square) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&style=flat-square) |
 
 </div>
 
----
+## � PORTFOLIO HIGHLIGHTS
 
-## 📊 GitHub Analytics
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; margin: 1.5rem 0;">
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+### **Enterprise-Grade Solutions**
+- **Distributed Task Queue** - Celery + Redis + Monitoring
+- **ML Pipeline Framework** - PyTorch + Airflow + MLflow
+- **Microservices Architecture** - FastAPI + Kafka + Kubernetes
 
-<!-- Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=0066ff&icon_color=0066ff&text_color=2d3748"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=0066ff&text_color=2d3748"/>
+### **Web & Mobile Applications**
+- **E-Commerce Platform** - Next.js + GraphQL + Stripe
+- **Health Analytics Dashboard** - React + D3.js + WebSockets
+- **Field Service App** - React Native + Offline-First
 
-<!-- Activity Graph -->
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=awash-dev&theme=react&hide_border=true&area=true&color=0066ff&line=0066ff&point=2d3748)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### **Open Source Contributions**
+- **FastAPI Extensions** - Auth middleware & query optimizers
+- **Data Visualization** - Custom React charting library
+- **DevOps Templates** - Terraform + GitHub Actions
 
 </div>
 
----
+## 📊 DEVELOPMENT METRICS
 
-## 📬 Connect With Me
+<div align="center" style="margin: 2rem 0;">
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+<!-- Compact Stats Layout -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](https://awash-port.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-hussen-mohammed-19794b372)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awash-dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmmame4224@gmail.com)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&count_private=true&line_height=24&hide_title=true&hide_border=true&bg_color=00000000&text_color=2d3748&icon_color=0066ff)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&text_color=2d3748&title_color=0066ff)
+
+</div>
+
+<!-- Activity Heatmap -->
+[![Contribution Map](https://github-readme-activity-graph.vercel.app/graph?username=awash-dev&theme=react&area=true&hide_border=true&color=0066ff&line=0066ff&point=2d3748&area_color=0066ff10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+## 📬 PROFESSIONAL PROFILE
+
+<div align="center" style="margin-top: 2rem;">
+
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-0066FF?style=for-the-badge&logo=vercel&logoColor=white)](https://awash-port.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-hussen-mohammed-19794b372)
+[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awash-dev)
+[![Email](https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmmame4224@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="center" style="margin-top: 2rem; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 0.9rem; color: #4a5568;">
 
-> "The best way to predict the future is to implement it." — Alan Kay
+"Engineering robust systems through principled development practices and continuous innovation."
 
 </div>
