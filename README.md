@@ -12,11 +12,11 @@
 ## 🧠 About Me
 
 - 🔧 Building fast, scalable backend systems & ML APIs  
-- 🌐 Backend stack: **Python**, **FastAPI**, **Node.js**, **Express**, **PostgreSQL**, **Redis**, **Docker**  
-- 💻 Frontend experience: **Next.js**, **React Native**  
+- 🌐 Backend stack: **Python**, **FastAPI**, **Node.js**, **Express**, **PostgreSQL**, **Docker**  
+- 💻 Frontend experience: **Next.js**, **React Native** ,**Lynx.js**
 - 📊 Data Science: **Pandas**, **Scikit-learn**, **TensorFlow**, **XGBoost**  
-- ☁️ Deploying to: **AWS**, **Render**, **Vercel**, **Heroku**  
-- 📝 Blogging at: [mame-journey.vercel.app](https://mame-journey.vercel.app)
+- ☁️ Deploying to: **AWS**, **Render**, **Vercel**  
+- 📝 Blogging at:[mame-journey.com](https://mame-journey.vercel.app)
 
 ---
 
@@ -78,23 +78,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&layout=compact&langs_count=8&hide_border=true" />
 </p>
-
----
-
-## 🌍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## 📫 Contact Me
 
-- 🌐 Portfolio: [awash-port.vercel.app](https://awash-port.vercel.app/)
-- 📧 Email: [mmmame4224@gmail.com](mailto:mmmame4224@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mohammed-hussen-mohammed-19794b372](https://linkedin.com/in/mohammed-hussen-mohammed-19794b372)
-- 📝 Blog: [mame-journey.vercel.app](https://mame-journey.vercel.app)
+- 🌐 Portfolio: [awash-dev.com](https://awash-port.vercel.app/)
+- 📧 Email:[Contact Me](mailto:mmmame4224@gmail.com)
+- 💼 LinkedIn: [linkedin.com](https://linkedin.com/in/mohammed-hussen-mohammed-19794b372)
+- 📝 Blog: [mame-journey.com](https://mame-journey.vercel.app)
 
 ---
 
