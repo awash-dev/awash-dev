@@ -1,94 +1,69 @@
-![Profile Views](https://komarev.com/ghpvc/?username=awash-dev&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=awash-dev&label=Profile%20views&color=00c8ff&style=flat-square)
 
-<h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">🚀 Backend Engineer & 🧠 Data Scientist</h3>
+<div align="center">
+  
+# ✨ Mohammed Hussen 
+### Backend Architect • Data Scientist • API Craftsman
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=450&lines=Backend+Engineer+%7C+Data+Scientist;Clean+Architecture+Advocate;ML+Pipelines+Builder;FastAPI+%2B+PostgreSQL+%2B+Docker;Next.js+%2F+Express+%2F+Node.js+Dev;Lifelong+Learner" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00C8FF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Designing+ML-powered+APIs;Advocate+for+clean+code;Passionate+about+data+pipelines;Open-source+enthusiast)](https://git.io/typing-svg)
 
----
-
-## 🧠 About Me
-
-- 🔧 Building fast, scalable backend systems & ML APIs  
-- 🌐 Backend stack: **Python**, **FastAPI**, **Node.js**, **Express**, **PostgreSQL**, **Docker**  
-- 💻 Frontend experience: **Next.js**, **React Native**, **Lynx.js**  
-- 📊 Data Science: **Pandas**, **Scikit-learn**, **TensorFlow**, **XGBoost**  
-- ☁️ Deploying to: **AWS**, **Render**, **Vercel**  
-- 📝 Blogging at: [mame-journey.vercel.app](https://mame-journey.vercel.app)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Toolkit
 
-### 🧩 Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+### **Backend Development**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
 
-### 🎨 Frontend & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Lynx.js](https://img.shields.io/badge/Lynx.js-ff6600?style=for-the-badge&logo=javascript&logoColor=white)
+### **Data Science**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### ⚙️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
 
 ---
 
-## 🔥 Projects Showcase
+## 🚀 Featured Projects
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🧪 **ML Prediction API** | FastAPI + XGBoost + Docker | Train and serve ML models as APIs |
-| 🔐 **Auth Service** | FastAPI + PostgreSQL + Redis | Secure token-based auth system |
-| 📊 **EDA Dashboard** | Pandas + Streamlit | Visual data analysis for large datasets |
-| 🌐 **Blog Website** | Next.js + Tailwind + MDX | Personal blog at [mame-journey.vercel.app](https://mame-journey.vercel.app) |
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awash-dev&theme=flat&no-bg=true&margin-w=5" />
-</p>
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **[ML Microservice](https://github.com/awash-dev/ml-api)** | FastAPI • XGBoost • Docker | Production-ready model serving with CI/CD |
+| **[Auth Gateway](https://github.com/awash-dev/auth-service)** | Node.js • JWT • Redis | Secure authentication service with rate limiting |
+| **[Data Pipeline](https://github.com/awash-dev/etl-flow)** | Python • Pandas • Airflow | Automated ETL pipeline for analytics |
+| **[Personal Blog](https://mame-journey.vercel.app)** | Next.js • MDX • Tailwind | Technical writings on backend development |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Development Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&hide_border=true&count_private=true" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=awash-dev&hide_border=true" width="47%" />
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&layout=compact&theme=github_dark&hide_border=true)
 
----
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=awash-dev&theme=github-dark&hide_border=true&area=true)
 
-## 🔝 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&layout=compact&langs_count=8&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 📫 Contact Me
+## 📬 Connect With Me
 
-- 🌐 Portfolio: [awash-port.vercel.app](https://awash-port.vercel.app)
-- 📧 Email: [Contact Me](mailto:mmmame4224@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mohammed-hussen-mohammed-19794b372](https://linkedin.com/in/mohammed-hussen-mohammed-19794b372)
-- 📝 Blog: [mame-journey.vercel.app](https://mame-journey.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://awash-port.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-hussen-mohammed-19794b372)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmmame4224@gmail.com)
+[![Blog](https://img.shields.io/badge/-Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://mame-journey.vercel.app)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "First, solve the problem. Then, write the code." — John Johnson
