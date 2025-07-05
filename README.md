@@ -1,85 +1,64 @@
-# Hi there 👋, I'm **Mohammed Hussen**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=awash-dev&label=Profile%20views&color=0e75b6&style=flat)
+<h1 align="center">Hi 👋, I'm Mohammed</h1>
+<h3 align="center">Backend Engineer & Data Science Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Clean+code+lover;Backend+%26+API+Developer;Data+Science+%26+ML+Explorer;Problem+Solver" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-**Full Stack Developer** passionate about building intuitive user interfaces and scalable backend systems.
-
-- 💻 Skilled in modern frontend and backend stacks  
-- 🧠 Lifelong learner who loves solving real-world problems  
-- 🎯 Focused on building elegant, maintainable, and fast applications  
-- 🌐 Website: [awash-dev.com](https://awash-dev.github.io/portfolios/)
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hussen-mohammed-70981b299)
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/m0h4mm3d_hu553n)
+- 🔭 I’m currently building scalable APIs and ML pipelines  
+- 🌱 Learning more about cloud-native microservices & deep learning  
+- 🧠 I focus on clean architecture, performance, and reproducibility  
+- 💬 Ask me about Python, FastAPI, Postgres, Pandas, or ML Ops  
+- 📫 Reach me at: **your.email@example.com**
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2D8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🧩 Backend
+`Python` `FastAPI` `Django` `Flask` `Node.js` `Express.js`  
+`PostgreSQL` `MongoDB` `Redis` `Docker` `Nginx`
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+### 📊 Data & ML
+`Pandas` `NumPy` `Scikit-Learn` `Matplotlib` `TensorFlow` `XGBoost`  
+`Airflow` `Jupyter` `HuggingFace` `OpenAI API`
 
-### 🗃️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233B5998.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+### ☁️ DevOps & Tools
+`Linux` `Docker` `GitHub Actions` `Heroku` `AWS (EC2, S3)`  
+`Postman` `VS Code` `Notion`
 
 ---
 
-## 🧰 Version Control
+## 📌 Featured Projects
 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🐍 GitHub Contributions Snake Game
-
-![GitHub Snake](https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-contribution-grid-snake.gif))
+- 🔐 **Auth API Service** – Token-based auth using FastAPI + PostgreSQL + Redis  
+- 📊 **ML Model Pipeline** – End-to-end house price prediction w/ logging & CI  
+- 📦 **REST to GraphQL Gateway** – API converter built with Express & Apollo  
+- 🔍 **EDA Dashboards** – Interactive dashboards using Plotly + Streamlit
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-### 🔥 Current Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=awash-dev&theme=dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" width="47%" />
+</p>
 
-### 📈 Yearly Contributions
-![Last Year Contributions](https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=dark)
+---
 
-### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&theme=dark&hide_border=false&layout=compact&exclude_repo=portfolio-legacy,test-repo,starter-template)
+## 🤝 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/yourname)
+- 📫 Email: your.email@example.com
+- 🌐 Portfolio: [yourwebsite.dev](https://yourwebsite.dev)
+
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
