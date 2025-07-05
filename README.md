@@ -13,10 +13,10 @@
 
 - 🔧 Building fast, scalable backend systems & ML APIs  
 - 🌐 Backend stack: **Python**, **FastAPI**, **Node.js**, **Express**, **PostgreSQL**, **Docker**  
-- 💻 Frontend experience: **Next.js**, **React Native** ,**Lynx.js**
+- 💻 Frontend experience: **Next.js**, **React Native**, **Lynx.js**  
 - 📊 Data Science: **Pandas**, **Scikit-learn**, **TensorFlow**, **XGBoost**  
 - ☁️ Deploying to: **AWS**, **Render**, **Vercel**  
-- 📝 Blogging at:[mame-journey.com](https://mame-journey.vercel.app)
+- 📝 Blogging at: [mame-journey.vercel.app](https://mame-journey.vercel.app)
 
 ---
 
@@ -31,6 +31,7 @@
 ### 🎨 Frontend & Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Lynx.js](https://img.shields.io/badge/Lynx.js-ff6600?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 📊 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
@@ -78,14 +79,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&layout=compact&langs_count=8&hide_border=true" />
 </p>
+
 ---
 
 ## 📫 Contact Me
 
-- 🌐 Portfolio: [awash-dev.com](https://awash-port.vercel.app/)
-- 📧 Email:[Contact Me](mailto:mmmame4224@gmail.com)
-- 💼 LinkedIn: [linkedin.com](https://linkedin.com/in/mohammed-hussen-mohammed-19794b372)
-- 📝 Blog: [mame-journey.com](https://mame-journey.vercel.app)
+- 🌐 Portfolio: [awash-port.vercel.app](https://awash-port.vercel.app)
+- 📧 Email: [Contact Me](mailto:mmmame4224@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mohammed-hussen-mohammed-19794b372](https://linkedin.com/in/mohammed-hussen-mohammed-19794b372)
+- 📝 Blog: [mame-journey.vercel.app](https://mame-journey.vercel.app)
 
 ---
 
