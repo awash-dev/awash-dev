@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# AMIBARA SOFTWARE DEVELOPER 
+# Mohammed Hussen 
 ### Backend Engineer • Cloud Architect • Data Specialist
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=0066FF&center=true&width=600&lines=Scalable+Backend+Engineering;AI+Solution+Design;Clean+Code+Practices;Cross-platform+App+Delivery;DevOps+Automation)](https://git.io/typing-svg)
