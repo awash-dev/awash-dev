@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=awash-dev&label=PROFILE+VIEWS&color=0066ff&style=flat-square)
 
-<h1 align="center">👋 Hi, I'm Mohammed Hussen</h1>
+<h1 align="center">👋 Hi, I'm Awash D3v</h1>
 <h3 align="center">Backend Engineer • Cloud Architect • Full-Stack Developer</h3>
 
 <p align="center">
