@@ -10,26 +10,19 @@
 
   <br/>
 
-  <table>
-    <tr>
-      <td align="center"><strong>Languages</strong></td>
-      <td align="center"><strong>Cloud & DevOps</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=rust,go,py,ts" /></td>
-      <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" /></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Databases</strong></td>
-      <td align="center"><strong>Frontend & Web</strong></td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql" /></td>
-      <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" /></td>
-    </tr>
-  </table>
+  <p><strong>Languages</strong></p>
+  <img src="https://skillicons.dev/icons?i=rust,go,py,ts" />
+  
+  <p><strong>Cloud & DevOps</strong></p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" />
 
-  <br/>
+  <p><strong>Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql" />
+
+  <p><strong>Frontend & Mobile</strong></p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,expo" />
+
+  <br/><br/>
 
   <img src="https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-snake-dark.svg" alt="GitHub Snake" width="90%" />
 
