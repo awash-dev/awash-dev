@@ -10,9 +10,24 @@
 
   <br/>
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=rust,go,py,ts,nodejs,nextjs,tailwind,react,postgres,redis,mongodb,mysql,aws,docker,kubernetes,terraform,git,github" />
-  </p>
+  <table>
+    <tr>
+      <td align="center"><strong>Languages</strong></td>
+      <td align="center"><strong>Cloud & DevOps</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=rust,go,py,ts" /></td>
+      <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" /></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Databases</strong></td>
+      <td align="center"><strong>Frontend & Web</strong></td>
+    </tr>
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql" /></td>
+      <td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" /></td>
+    </tr>
+  </table>
 
   <br/>
 
