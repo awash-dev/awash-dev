@@ -26,12 +26,12 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awash-dev&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awash-dev&theme=tokyonight&hide_border=true&background=00000000" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awash-dev&theme=tokyonight&hide_border=true" width="87%" />
 </p>
 
 ---
