@@ -8,43 +8,22 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Rust+Systems+Programming;Go+Microservices;Scalable+Backend+Architecture;Cloud+Native+Infrastructure" alt="Typing SVG" />
   </p>
 
-</div>
+  <br/>
 
----
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=rust,go,py,ts,nodejs,nextjs,tailwind,react,postgres,redis,mongodb,mysql,aws,docker,kubernetes,terraform,git,github" />
+  </p>
 
-### 🛠️ Tech Stack
+  <br/>
 
-**Languages:** Rust, Go, Python, TypeScript
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform
-**Databases:** PostgreSQL, Redis, MongoDB, MySQL, SQLite
-**Frontend:** Next.js, Tailwind CSS, Shadcn UI, react-native
-**Backend:** Rust, Go, Python, TypeScript
-**Version Control:** Git, GitHub  
+  <img src="https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-snake-dark.svg" alt="GitHub Snake" width="90%" />
 
----
+  <br/><br/>
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awash-dev&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awash-dev&theme=tokyonight&hide_border=true" width="87%" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://portfolios.pro.et" target="_blank">Portfolio</a> • 
-  <a href="https://mame.pro.et" target="_blank">Blog</a> • 
-  <a href="mailto:mtcoder42@gmail.com">Email</a> • 
-  <a href="https://github.com/awash-dev">GitHub</a>
+  <p align="center">
+    <a href="https://portfolios.pro.et" target="_blank">Portfolio</a> • 
+    <a href="https://mame.pro.et" target="_blank">Blog</a> • 
+    <a href="mailto:mtcoder42@gmail.com">Email</a> • 
+    <a href="https://github.com/awash-dev">GitHub</a>
+  </p>
 </div>
