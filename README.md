@@ -8,18 +8,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Rust+Systems+Programming;Go+Microservices;Scalable+Backend+Architecture;Cloud+Native+Infrastructure" alt="Typing SVG" />
   </p>
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-snake-dark.svg" alt="GitHub Snake" width="70%" />
-  </p>
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Rust, Go, Python, TypeScript  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform  
-**Databases:** PostgreSQL, Redis, MongoDB  
+**Languages:** Rust, Go, Python, TypeScript
+**Cloud & DevOps:** AWS, Docker, Kubernetes, Terraform
+**Databases:** PostgreSQL, Redis, MongoDB, MySQL, SQLite
+**Frontend:** Next.js, Tailwind CSS, Shadcn UI, react-native
+**Backend:** Rust, Go, Python, TypeScript
+**Version Control:** Git, GitHub  
 
 ---
 
@@ -37,8 +37,14 @@
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
+</div>
+
+---
+
+<div align="center">
   <a href="https://portfolios.pro.et" target="_blank">Portfolio</a> • 
   <a href="https://mame.pro.et" target="_blank">Blog</a> • 
-  <a href="mailto:awash.dev@gmail.com">Email</a> • 
+  <a href="mailto:mtcoder42@gmail.com">Email</a> • 
   <a href="https://github.com/awash-dev">GitHub</a>
 </div>
