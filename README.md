@@ -59,7 +59,28 @@
 
 ---
 
-## 🚀 Recent Focus
+## � Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/awash-dev/awash-dev/output/github-snake.svg" alt="GitHub Snake" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awash-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Awash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awash-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awash-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## �🚀 Recent Focus
 
 ```python
 current_focus = {
@@ -68,3 +89,4 @@ current_focus = {
   "cloud": ["Kubernetes orchestration", "AWS serverless architecture"],
   "devops": ["CI/CD with GitHub Actions", "Infrastructure as Code with Terraform"]
 }
+```
