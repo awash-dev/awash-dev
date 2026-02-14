@@ -37,6 +37,8 @@
 ---
 
 <div align="center">
+  <a href="https://portfolios.pro.et" target="_blank">Portfolio</a> • 
+  <a href="https://mame.pro.et" target="_blank">Blog</a> • 
   <a href="mailto:awash.dev@gmail.com">Email</a> • 
   <a href="https://github.com/awash-dev">GitHub</a>
 </div>
